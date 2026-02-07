@@ -2,7 +2,7 @@
 
 **CrepBook** is an AI-first notes app for **desktop + mobile** that turns a single large document into a clean, navigable knowledge base — without losing the simplicity of writing in Markdown.
 
-The core idea is simple: you can **write everything in one place**, and BlockNote will help you **split, structure, tag, link, and search** it like a real knowledge system. AI is not a plugin here — it’s deeply embedded into the workflow as both a **knowledge assistant** and a **writing companion**.
+The core idea is simple: you can **write everything in one place**, and CrepBook will help you **split, structure, tag, link, and search** it like a real knowledge system. AI is not a plugin here — it’s deeply embedded into the workflow as both a **knowledge assistant** and a **writing companion**.
 
 ---
 

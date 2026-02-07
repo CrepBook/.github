@@ -70,7 +70,7 @@ Guidelines:
 - Describe *why* the change is needed (not only what changed)
 - Add tests when it makes sense (or describe how you manually tested)
 
-> See: [CONTRIBUTING.md](CONTRIBUTING.md)
+> See: [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ---
 
